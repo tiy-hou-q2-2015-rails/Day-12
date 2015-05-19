@@ -23,9 +23,20 @@ CSS Techniques
 2. SCSS
 
 
+Assignment:
+----------
+
+No Homework today. Get caught up on other stuff.
+
+If you are lost with HTML/CSS, you should do the [DASH tutorial](https://dash.generalassemb.ly/) (was in prework).
+
+
 Notes:
 ----------
 
+* [Cover](http://codepen.io/jwo/pen/GJqeRo)
+* [Hover](http://codepen.io/jwo/pen/EjyrMe)
+* [Tint/Overlay](http://codepen.io/jwo/pen/XbKGWP)
 
 About Bootstrap
 
