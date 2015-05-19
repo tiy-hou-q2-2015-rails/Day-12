@@ -15,17 +15,17 @@ Quiz 1:
 Today:
 ----
 
-1. Intro to HTML
-1. CSS Techniques
+CSS Techniques
+
+1. Hover
 1. Image cover
 1. tinted color
+2. SCSS
 
 
 Notes:
 ----------
 
-* [Overlay Tint](http://codepen.io/jwo/pen/vdlKf?editors=110)
-* [Gettysbootstrap](http://codepen.io/jwo/pen/mywyXG)
 
 About Bootstrap
 
